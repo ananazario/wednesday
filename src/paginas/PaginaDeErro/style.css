@@ -1,0 +1,32 @@
+
+
+.section-error {
+    background: rgb(20, 19, 19);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 12rem;
+    padding-right: 12rem;
+}
+
+.titulo-error, .message-error {
+    font-size: 24px;
+    color: #fff;
+    line-height: 1.5;
+}
+
+.message-error {
+    margin-bottom: 2.5rem;
+}
+
+.link-error {
+    background-color: blueviolet;
+    padding: 1.5rem;
+    border-radius: 3rem;
+}
+
+.image-error {
+    width: 43rem;
+    padding-left: 5rem;
+}
+

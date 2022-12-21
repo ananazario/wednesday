@@ -1,0 +1,22 @@
+.section-cast {
+    background: rgb(20, 19, 19);
+}
+
+.section-cast-divs {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    color: #fff;
+    text-align: center;
+}
+
+.div-cast {
+    width: 30%;
+    font-family: 'Rubik Spray Paint', cursive;
+}
+
+.div-cast img {
+    width: 12rem;
+    height: 12rem;
+    padding: .5rem;
+}
